@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-runtime-6120",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9044,
+    "createdAt": "2026-07-16T06:06:46.903Z"
+  }
+}
